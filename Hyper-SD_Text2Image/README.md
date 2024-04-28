@@ -18,7 +18,7 @@ Kaggle
 ### Packages
 Please install the following packages in Python before running the code.
 
-´´´python
+´´´Python
 %time
 !pip install -qq diffusers; # <- Type of generative model
 !pip install -qq -U peft; # <- Helps improve the performance of pre-trained models
