@@ -1,11 +1,19 @@
-"Fake or Naty"
-O desafio È parte da trilha do Santander, IA para Devs, o objtivo era entregar um conte˙do gerado por uma IA e fazer o envio para a plataforma da Dio.
+# Build your own gen-ai
 
-N„o h· avanÁos sem desconforto
-Para vocÍ este desafio È o bastante para lhe trazer desconforto (por favor contiue, estou verdadeiramente orgulhoso) a mim seria certamente mas eu li e estive em projetos de pesquisas na faculdade como tambÈm codei com outros modelos, eu queria dar um passo a mais na minha caminhada, apenas isso.
+## Descri√ß√£o
+A ideia objetivo do projeto √© usar um modelo open-sources na plataforma baseada em jupyter notebook Kaggle e codar uma IA capaz de realizar a tarefa Text2Image
 
-O processo
-Sempre que preciso de algo novo (criar/testar) eu uso a metodologia Sprint, criada pelo ex-goolger Jake Knapp com seu colega John Zeratsky, È uma abordagem para testar ideias em tempo rel‚mpago, coniste nos seguintes passos:
+## Tecnologias Utilizadas
+Liste as IAs Generativas e outras ferramentas usadas
+- Python
+- toch
+- hugging face hub
+- hugging face pipeline
+- Diffusers
+- Kaggle (notebook)
+
+## Processo de Cria√ß√£o
+Sempre que preciso de algo novo (criar/testar) eu uso a metodologia Sprint, criada pelo ex-goolger Jake Knapp com seu colega John Zeratsky, √© uma abordagem para testar ideias em tempo rel√¢mpago, coniste nos seguintes passos:
 
 (1) Mapeamento
 
@@ -13,33 +21,24 @@ Sempre que preciso de algo novo (criar/testar) eu uso a metodologia Sprint, cria
 - Perguntar aos especialistas
 - Escolher alvo
 
-(2) FaÁa EsboÁos
-- Ajuste e aperfeiÁoe
+(2) Fa√ßa Esbo√ßos
+- Ajuste e aperfei√ßoe
 
 (3) Decida
-- ComparaÁ„o entre as soluÁıes
+- Compara√ß√£o entre as solu√ß√µes
 - Storybord
 
-(4) ProtÛtipo
+(4) Prot√≥tipo
 
 (5) Teste
 
-Eu faÁo uma adaptaÁ„o no Trello porque naturalmente n„o È preciso tudo isso, o foco È nos princÌpios (elimiar distraÁıes).
+Eu fa√ßo uma adapta√ß√£o no Trello porque naturalmente n√£o √© preciso tudo isso, o foco √© nos princ√≠pios (elimiar distra√ß√µes).
 
-O que È necess·rio
-- Conta no huggingface
-- Conta no Kaggle ou Colabs (Por conta da GPU)
+## Resultados
+![girl3](https://github.com/CllsPy/lab-natty-or-not/assets/96326019/9b952b91-99d2-489f-bf50-9f12d95a47a2)
 
-Tecnologias
-- Python
-- torch/transformers, diffusers, huggingface_hub
+[LINK PARA O C√ìDIGO](https://github.com/CllsPy/Generative_AI/tree/main/Hyper-SD_Text2Image)
 
-Modelo
-- Hyper-SD
 
-Resultado
-
-PrÛximos passos
-Esta È a vers„o 1.0 e est· apenas no Kaggle, vou adicionar uma interface com Gradio e documenta todo projeto (inclusive para aprender mais sobre as bibliotecas).
-
-> Sua principal arma no mundo da programaÁ„o È a curiosidade :)
+## üí≠ Reflex√£o (Opcional)
+> A revolu√ß√£o quanto a intelig√™ncia artificial acontecer√° quando todos tiverem acesso a ela, por isso sou apaxionado por modelos *open-source*.
