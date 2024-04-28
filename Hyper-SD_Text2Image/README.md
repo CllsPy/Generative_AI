@@ -36,9 +36,3 @@ Eu faço uma adaptação no Trello porque naturalmente não é preciso tudo isso
 
 ## Resultados
 ![girl3](https://github.com/CllsPy/lab-natty-or-not/assets/96326019/9b952b91-99d2-489f-bf50-9f12d95a47a2)
-
-[LINK PARA O CÓDIGO](https://github.com/CllsPy/Generative_AI/tree/main/Hyper-SD_Text2Image)
-
-
-## 💭 Reflexão (Opcional)
-> A revolução quanto a inteligência artificial acontecerá quando todos tiverem acesso a ela, por isso sou apaxionado por modelos *open-source*.
