@@ -18,9 +18,10 @@ Kaggle
 ### Packages
 Please install the following packages in Python before running the code.
 
-´´´Python
+```python
+import time
+start_time = time.time()
 
-%time
 !pip install -qq diffusers; # <- Type of generative model
 !pip install -qq -U peft; # <- Helps improve the performance of pre-trained models
 
@@ -32,4 +33,8 @@ from diffusers import DDIMScheduler  # Speeds up the process, making the result 
 
 from huggingface_hub import hf_hub_download  # Allows interaction with the Hugging Face Hub, repository of models
 transformers.utils.move_cache()
-´´´
+
+end_time = time.time()
+execution_time = end_time - start_time
+print("Execution time:", execution_time, "seconds")
+
