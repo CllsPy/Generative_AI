@@ -1,2 +1,2 @@
 # Gen-AI
-IA generativa ou inteligência artificial generativa se refere ao uso de IA para criar novos conteúdos, como texto, imagens, música, áudio e vídeos. Ela usa modelos de fundação (modelos de IA grandes) capazes de realizar várias tarefas ao mesmo tempo, além de resumos, perguntas e respostas, classificações e muito mais.
+Generative AI or generative artificial intelligence refers to the use of AI to create new content such as text, images, music, audio and videos. It uses foundation models (large AI models) capable of multitasking, summarizing, Q&A, rankings, and more.
