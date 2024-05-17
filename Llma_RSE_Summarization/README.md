@@ -73,6 +73,7 @@ Utilizando um modelo de código aberto (Llama-2b) e uma ferramenta de prototipag
 - Para entender e definir o problema
 - Código no [Github](#)
 
-## Considerações finais
+## Resultado
+![image](https://github.com/CllsPy/Generative_AI/assets/96326019/f5018c9e-b97c-426f-8785-2b28cd5136b8)
 
-Eu optei por não colocar o código no artigo pela formatação, hoje 14-05-2024, me resta comentar o código e adicionar a interface via Gradio, no futuro a possibilidade do RSE ser lido em formato PDF. Optei para mostrar a prévia para concluir o artigo, estarei atualizando o código que está em meu repositório nos próximos dias.
+
