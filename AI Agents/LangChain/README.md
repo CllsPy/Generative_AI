@@ -36,6 +36,7 @@ Após construir o agente, recebo informações sobre quais ferramentas ele irá 
 - LangChain + HuggingFace
 
 - LangChain Quick Start
+- [Código no Github](https://github.com/CllsPy/Generative_AI/blob/main/AI%20Agents/LangChain/LangChain_HuggingFace_Serpapi.ipynb)
 <br>
 
 Não vou explicar sobre AI Agents e qual a vantagem deles; há um artigo no qual trato apenas sobre isso.
