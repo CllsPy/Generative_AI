@@ -31,10 +31,10 @@ O processo foi inteiramente no Google Colabs e em seguida tranferido ao HuggingF
 
 ### Pacotes
 
-´´´
+```
 torch
 Transformers
 Streamlit
 youtube-transcript-api
 sentencepiece
-´´´
+```
