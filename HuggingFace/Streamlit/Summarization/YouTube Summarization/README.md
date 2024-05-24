@@ -30,7 +30,8 @@ O objetivo do projeto é construir uma interface web usando Streamlit, capaz de 
 O processo foi inteiramente no Google Colabs e em seguida tranferido ao HuggingFace Spaces para deployment. A linguagem utilizada foi Python.
 
 ### Pacotes
-´´´python
+
+´´´Python
 torch
 Transformers
 Streamlit
