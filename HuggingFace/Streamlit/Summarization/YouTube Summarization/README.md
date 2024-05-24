@@ -38,3 +38,8 @@ Streamlit
 youtube-transcript-api
 sentencepiece
 ```
+
+## Considerações
+Dentre suas limitações estão o idioma, ainda não ajustei para que seja capaz de sumarizar vídeos em PT, muito em função dos modelos escolhido (tentarei o GPT-2 no futuro) e pela carência em transcrições dos vídeos em alguns canais.
+
+O código está disponível no Github e online no Huggingface para quem tiver curiosidade em testar ou aprimorar o código.
