@@ -31,7 +31,7 @@ O processo foi inteiramente no Google Colabs e em seguida tranferido ao HuggingF
 
 ### Pacotes
 
-```
+```python
 torch
 Transformers
 Streamlit
