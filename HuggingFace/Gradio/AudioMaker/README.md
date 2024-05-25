@@ -13,13 +13,13 @@ O processo foi inteiramente no Google Colabs e em seguida tranferido ao HuggingF
 
 ### Pacotes
 
-´´´python
+```python
 torch
 Transformers
 diffusers
 gradio
 scipy
-´´´
+```
 
 ## Autor
 [Deployment on HuggingFace](https://huggingface.co/spaces/CASLL/audio-maker)
