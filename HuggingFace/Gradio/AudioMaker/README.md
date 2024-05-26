@@ -1,7 +1,7 @@
 # Descrição do projeto
 O objetivo do projeto é, via Gradio e com a utilização do modelo AudioLDM que está hospedado na plataforma Huggingface, criar uma interface na qual seja possível gerar arquivos de áudio .wav via prompt como ser possível a download do arquivo.
 
-![image](https://github.com/CllsPy/Generative_AI/assets/96326019/545e056c-b80b-4a2d-9b02-8d07a1e4f456)
+![](https://github.com/CllsPy/Generative_AI/blob/main/HuggingFace/Gradio/AudioMaker/assets/gui.png?raw=true)
 
 ## Etapas
 1. Em primeiro lugar precisamos criar um processo que gera o conteúdo
