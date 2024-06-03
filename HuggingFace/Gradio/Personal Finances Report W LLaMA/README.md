@@ -21,7 +21,7 @@ A linguagem dinâmica escolhida foi Python, para IDE eu optei pelo Google Colab.
 #### Packages
 Instale os seguintes pacotes
 
-´´´ Python
+´´´ 
 mport os
 import torch
 import pinecone
