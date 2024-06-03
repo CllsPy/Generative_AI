@@ -5,6 +5,7 @@ O objetivo do projeto é construir uma interface via Gradio na qual seja possív
 ## Etapas
 ![image](https://github.com/CllsPy/Generative_AI/assets/96326019/920681bf-d869-4db2-aea6-a14b94ba0c8b)
 *fonte: autor*
+<br>
 
 1. Obter dados do usuário em formato adequado (PDF)
 2. Aplicar Text Embedding ao PDF de modo que o modelo (LLaMA) possa diferir)
