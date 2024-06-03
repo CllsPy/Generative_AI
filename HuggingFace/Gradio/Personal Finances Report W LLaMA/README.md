@@ -21,7 +21,7 @@ A linguagem dinâmica escolhida foi Python, para IDE eu optei pelo Google Colab.
 #### Packages
 Instale os seguintes pacotes
 
-´´´python
+´´´ Python
 mport os
 import torch
 import pinecone
@@ -38,4 +38,4 @@ from langchain.embeddings import HuggingFaceEmbeddings
 from langchain.text_splitter import CharacterTextSplitter
 from transformers import StoppingCriteria, StoppingCriteriaList
 from langchain.chains import StuffDocumentsChain, LLMChain, ConversationalRetrievalChain
-´´´´
+´´´
