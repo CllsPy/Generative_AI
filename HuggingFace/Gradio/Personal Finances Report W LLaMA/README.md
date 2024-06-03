@@ -18,7 +18,7 @@ O objetivo do projeto é construir uma interface via Gradio na qual seja possív
 ### Requirements
 A linguagem dinâmica escolhida foi Python, para IDE eu optei pelo Google Colab. Para implementar as etapas localmente passos adicionais são necessários e podem ser encontrados nas documentações das bibliotecas mencionadas neste arquivo. Além disso acesso a GPU.
 
-#### Packages
+## Packages
 Instale os seguintes pacotes
 
 ``` Python
