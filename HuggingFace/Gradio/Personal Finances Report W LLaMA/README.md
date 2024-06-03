@@ -39,3 +39,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from transformers import StoppingCriteria, StoppingCriteriaList
 from langchain.chains import StuffDocumentsChain, LLMChain, ConversationalRetrievalChain
 ```
+
+## Launch
+Download the Python File `app.ipynb` and open it in the IDE.
+
