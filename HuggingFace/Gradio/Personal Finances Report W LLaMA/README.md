@@ -43,3 +43,13 @@ from langchain.chains import StuffDocumentsChain, LLMChain, ConversationalRetrie
 ## Launch
 Download the Python File `app.ipynb` and open it in the IDE.
 
+## Autor
+Carlos L. - [Github](https://github.com/CllsPy)
+
+## License
+This project is licensed under the MIT License.
+
+## Acknowledgements
+
+- [Pinecone Docs](https://docs.pinecone.io/integrations/langchain)
+- [Langchain](https://www.langchain.com/)
